@@ -1,4 +1,4 @@
-lin-tools
+linux
 =========
 
-Linux Tools
+Linux Management Tools
